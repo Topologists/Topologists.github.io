@@ -17,13 +17,13 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {file: "README.md", title: "课程"}
-  - {file: "/trefoil.jpg", title: "海报"}
+  - {file: "README.md", title: "课程细节"}
+  - {file: "/trefoil.jpg", title: "宣传海报"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chwy@tsinghua.edu.cn"}
-  - {title: Github, icon: github, url: "https://github.com/Topologists"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  # - {title: Github, icon: github, url: "https://github.com/Topologists"}
+  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
