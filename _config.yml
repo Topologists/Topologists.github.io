@@ -1,4 +1,4 @@
-title: "拓扑暑期学校，2024年7月1日至5日，清华大学，中国北京"
+title: "拓扑暑期学校 （2024年7月1日至5日，清华大学，中国北京市）"
 author: "陈伟彦"
 description: "组织者：林剑锋，高鸿灏，陈伟彦，黄意，谢羿"
 permalink: /:title/
@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
