@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "课程"
+permalink: "/courses/"
 layout: page
 ---
 
