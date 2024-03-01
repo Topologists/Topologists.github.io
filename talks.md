@@ -1,6 +1,6 @@
 ---
-title: "日程安排"
-permalink: "/calendar/"
+title: "学术报告"
+permalink: "/talks/"
 layout: page
 ---
 
