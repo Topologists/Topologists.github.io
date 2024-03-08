@@ -4,6 +4,8 @@ permalink: "/courses/"
 layout: page
 ---
 
+
+
 ## Higgs bundles and minimal surfaces in non-compact symmetric spaces
 授课人：李琼玲（南开大学）
 
@@ -12,6 +14,8 @@ layout: page
 时间：
 
 教室：
+
+
 
 
 ## Title
@@ -28,6 +32,8 @@ layout: page
 教室：
 
 
+
+
 ## Title
 授课人：吴惟为（浙江大学）
 
@@ -38,6 +44,8 @@ layout: page
 教室：
 
 
+
+
 ## Groups acting on hyperbolic spaces
 授课人：杨文元（北京国际数学研究中心）
 
@@ -46,6 +54,8 @@ layout: page
 时间：
 
 教室：
+
+
 
 
 ## Intersection theory of punctured holomorphic curves and planar open books
