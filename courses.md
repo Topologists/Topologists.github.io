@@ -51,13 +51,10 @@ layout: page
 
 <details>
 <summary>课程摘要：</summary>
-
-Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
-
+<p>Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
+<br>
   Lecture 1: Open books, symplectic Lefschetz fibrations, Wendl’s theorem on planar open books and its applications in symplectic fillings.
-
-  Lecture 2-3: Siefring’s intersection theory for punctured holomorphic curves.
-
-  Lecture 4: Proof of Wendl’s theorem.
-
+<br>
+   Lecture 2-3: Siefring’s intersection theory for punctured holomorphic curves.<br>
+   Lecture 4: Proof of Wendl’s theorem.</p> 
 </details>
