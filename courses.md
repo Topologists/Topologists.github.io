@@ -9,7 +9,7 @@ layout: page
 ## 李琼玲（南开大学）：Higgs bundles and minimal surfaces in non-compact symmetric spaces
   
 <details>
-<summary>课程摘要（点击展开）：</summary>
+<summary>课程摘要：</summary>
 
 
 </details>
