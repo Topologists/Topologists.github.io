@@ -16,14 +16,14 @@ layout: page
 <p><b>田垠（北京师范大学）</b>：Topological quantum field theory and Khovanov homology</p> 
   <details>
 <summary>课程摘要：</summary>
-<p>Lecture 1. Jones and quantum group<br>
+Lecture 1. Jones and quantum group<br>
    Lecture 2. Topological quantum field theory and Khovanov homology (Kh)<br>
    Lecture 3. Categorified quantum group<br>
-   Lecture 4. Application of Kh, symplectic Kh.</p> 
+   Lecture 4. Application of Kh, symplectic Kh.
 </details>
 
 
-<p><b>吴惟为（浙江大学）</b><br>
+<p><b>吴惟为（浙江大学）</b>：The symplectomorphism group<br>
   
 <details>
 <summary>课程摘要：</summary>
@@ -39,14 +39,14 @@ layout: page
 </details>
 
 
-<p><b>周正一（中国科学院）</b>：Intersection theory of punctured holomorphic curves and planar open books</p> 
+<p><b>周正一（中科院数学所）</b>：Intersection theory of punctured holomorphic curves and planar open books</p> 
 
 <details>
 <summary>课程摘要：</summary>
-<p>Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
+Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
 <br>
   Lecture 1: Open books, symplectic Lefschetz fibrations, Wendl’s theorem on planar open books and its applications in symplectic fillings.
 <br>
    Lecture 2-3: Siefring’s intersection theory for punctured holomorphic curves.<br>
-   Lecture 4: Proof of Wendl’s theorem.</p> 
+   Lecture 4: Proof of Wendl’s theorem.
 </details>
