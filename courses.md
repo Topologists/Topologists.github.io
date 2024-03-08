@@ -20,15 +20,10 @@ layout: page
 ## 田垠（北京师范大学）：Topological quantum field theory and Khovanov homology
   <details>
 <summary>课程摘要：</summary>
-
-  Lecture 1. Jones and quantum group
-
-  Lecture 2. Topological quantum field theory and Khovanov homology (Kh)
-
-  Lecture 3. Categorified quantum group
-
-  Lecture 4. Application of Kh, symplectic Kh
-  
+<p>Lecture 1. Jones and quantum group<br>
+   Lecture 2. Topological quantum field theory and Khovanov homology (Kh)<br>
+   Lecture 3. Categorified quantum group<br>
+   Lecture 4. Application of Kh, symplectic Kh.</p> 
 </details>
 
 
