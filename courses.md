@@ -22,13 +22,13 @@ layout: page
 授课人：田垠（北京师范大学）
 
 课程摘要：
-1.Jones and quantum group
+Lecture 1. Jones and quantum group
 
-2.tqft and Kh
+Lecture 2. tqft and Kh
 
-3.categorified quantum group
+Lecture 3. Categorified quantum group
 
-4.application of Kh, symplectic Kh
+Lecture 4. Application of Kh, symplectic Kh
 
 时间：
 
