@@ -13,7 +13,7 @@ layout: page
 </details>
 
 
-<p><b>田垠（北京师范大学）：Topological quantum field theory and Khovanov homology</b></p> 
+<p><b>田垠（北京师范大学）</b>：Topological quantum field theory and Khovanov homology</p> 
   <details>
 <summary>课程摘要：</summary>
 <p>Lecture 1. Jones and quantum group<br>
@@ -31,7 +31,7 @@ layout: page
 </details>
 
 
-<p><b>杨文元（北京国际数学研究中心）：Groups acting on hyperbolic spaces</b></p> 
+<p><b>杨文元（北京国际数学研究中心）</b>：Groups acting on hyperbolic spaces</p> 
 
 <details>
 <summary>课程摘要：</summary>
@@ -39,7 +39,7 @@ layout: page
 </details>
 
 
-<p><b>周正一（中国科学院）：Intersection theory of punctured holomorphic curves and planar open books</b></p> 
+<p><b>周正一（中国科学院）</b>：Intersection theory of punctured holomorphic curves and planar open books</p> 
 
 <details>
 <summary>课程摘要：</summary>
