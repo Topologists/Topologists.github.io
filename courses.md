@@ -7,11 +7,11 @@ layout: page
 
 
 ## 李琼玲（南开大学）：Higgs bundles and minimal surfaces in non-compact symmetric spaces
-  课程摘要：
+  
 <details>
-<summary>Click to expand</summary>
+<summary>点击展开摘要</summary>
 
-whatever
+课程摘要：
 
 </details>
 
@@ -19,7 +19,10 @@ whatever
 
 
 ## 田垠（北京师范大学）：Topological quantum field theory and Khovanov homology
-  课程摘要：
+  <details>
+<summary>点击展开摘要</summary>
+
+课程摘要：
   Lecture 1. Jones and quantum group
 
   Lecture 2. Topological quantum field theory and Khovanov homology (Kh)
@@ -27,28 +30,38 @@ whatever
   Lecture 3. Categorified quantum group
 
   Lecture 4. Application of Kh, symplectic Kh
-
+  
+</details>
 
 
 
 
 ## 吴惟为（浙江大学）
-  课程摘要：
 
+<details>
+<summary>点击展开摘要</summary>
 
+课程摘要：
 
+</details>
 
 
 ## 杨文元（北京国际数学研究中心）：Groups acting on hyperbolic spaces
-  课程摘要：
 
+<details>
+<summary>点击展开摘要</summary>
 
+课程摘要：
 
-
+</details>
 
 
 ## 周正一（中科院）：Intersection theory of punctured holomorphic curves and planar open books
-   课程摘要：Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
+
+<details>
+<summary>点击展开摘要</summary>
+
+课程摘要：Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
 
   Lecture 1: Open books, symplectic Lefschetz fibrations, Wendl’s theorem on planar open books and its applications in symplectic fillings.
 
@@ -56,3 +69,4 @@ whatever
 
   Lecture 4: Proof of Wendl’s theorem.
 
+</details>
