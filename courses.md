@@ -6,17 +6,14 @@ layout: page
 
 
 
-<p><b>李琼玲（南开大学）：Higgs bundles and minimal surfaces in non-compact symmetric spaces</b><br>
+<p><b>李琼玲（南开大学）：Higgs bundles and minimal surfaces in non-compact symmetric spaces</b></p> 
 <details>
 <summary>课程摘要：</summary>
-
-
+待定
 </details>
 
 
-
-
-## 田垠（北京师范大学）-Topological quantum field theory and Khovanov homology
+<p><b>田垠（北京师范大学）：Topological quantum field theory and Khovanov homology</b></p> 
   <details>
 <summary>课程摘要：</summary>
 <p>Lecture 1. Jones and quantum group<br>
@@ -26,27 +23,24 @@ layout: page
 </details>
 
 
-
-
-## 吴惟为（浙江大学）
-
+<p><b>吴惟为（浙江大学）</b><br>
+  
 <details>
 <summary>课程摘要：</summary>
-
-
+待定
 </details>
 
 
-## 杨文元（北京国际数学研究中心）-Groups acting on hyperbolic spaces
+<p><b>杨文元（北京国际数学研究中心）：Groups acting on hyperbolic spaces</b></p> 
 
 <details>
 <summary>课程摘要：</summary>
-
-
+待定
 </details>
 
 
-## 周正一（中科院）-Intersection theory of punctured holomorphic curves and planar open books
+## 
+<p><b>周正一（中国科学院）：Intersection theory of punctured holomorphic curves and planar open books</b></p> 
 
 <details>
 <summary>课程摘要：</summary>
