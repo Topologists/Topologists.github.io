@@ -39,7 +39,6 @@ layout: page
 </details>
 
 
-## 
 <p><b>周正一（中国科学院）：Intersection theory of punctured holomorphic curves and planar open books</b></p> 
 
 <details>
