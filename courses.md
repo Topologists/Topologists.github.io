@@ -11,9 +11,6 @@ layout: page
 
 课程摘要：
 
-时间：
-
-教室：
 
 
 
@@ -30,9 +27,6 @@ Lecture 3. Categorified quantum group
 
 Lecture 4. Application of Kh, symplectic Kh
 
-时间：
-
-教室：
 
 
 
@@ -42,9 +36,6 @@ Lecture 4. Application of Kh, symplectic Kh
 
 课程摘要：
 
-时间：
-
-教室：
 
 
 
@@ -54,9 +45,7 @@ Lecture 4. Application of Kh, symplectic Kh
 
 课程摘要：
 
-时间：
 
-教室：
 
 
 
@@ -71,8 +60,4 @@ Lecture 1: Open books, symplectic Lefschetz fibrations, Wendl’s theorem on pla
 Lecture 2-3: Siefring’s intersection theory for punctured holomorphic curves.
 
 Lecture 4: Proof of Wendl’s theorem.
-
-时间：
-
-教室：
 
