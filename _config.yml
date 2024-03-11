@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "talks.md", title: "报告"}
   - {file: "calendar.md", title: "日程"}
   - {file: "travel.md", title: "旅宿"}
+  - {file: "poster.md", title: "海报"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:chwy@tsinghua.edu.cn"}
