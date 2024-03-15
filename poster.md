@@ -4,4 +4,4 @@ permalink: "/poster/"
 layout: page
 ---
 
-<img src="poster.png" alt="Poster">
+![Poster](Poster.png)
