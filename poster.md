@@ -4,4 +4,4 @@ permalink: "/poster/"
 layout: page
 ---
 
-![Poster](Poster.png)
+![海报](/least-github-pages/assets/poster.png)
