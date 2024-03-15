@@ -4,4 +4,4 @@ permalink: "/poster/"
 layout: page
 ---
 
-![Book logo](/least-github-pages/assets/poster.png)
+<img src="poster.png" alt="Poster">
