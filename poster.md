@@ -4,4 +4,4 @@ permalink: "/poster/"
 layout: page
 ---
 
-![海报](/least-github-pages/assets/poster.png)
+![海报](/Topologists.github.io/assets/poster.png)
