@@ -4,4 +4,4 @@ permalink: "/poster/"
 layout: page
 ---
 
-稍后公布
+![Book logo](/least-github-pages/assets/poster.png)
