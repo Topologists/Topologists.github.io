@@ -1,5 +1,5 @@
 ---
-title: "课程（7月1-5日）"
+title: "短期课程（7月1-5日）"
 permalink: "/courses/"
 layout: page
 ---
