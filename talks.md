@@ -14,7 +14,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>何东泰(同济大学)：TBD
+<summary><b>何东泰(同济大学)
 </b></summary>
 摘要：TBD
 </details>
