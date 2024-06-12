@@ -31,14 +31,16 @@ Z2 harmonic spinors and forms extend the concept of quadratic differentials on R
 <p><b>谷世杰(东北大学)：Compactifications of manifolds</b>
   <details>
  <summary>摘要：</summary> In 1966, Larry Siebenmann once mused that his work (PhD thesis) was initiated at a time "when 'respectable' geometric topology was necessarily compact." That attitude has long since faded; today's topological landscape is filled with research in which noncompact spaces are primary objects. However, major successes in compactifying manifolds included here are fundamental to manifold topology: Stallings' characterization of Euclidean spaces, Siebenmann's collaring theorem, and our recent Gu-Guilbault's manifold completion theorem. In the first part, I will provide quick access to some of these results by weaving them together with common interpretations. In the second part, I will introduce several open questions on this topic. I will focus on clarifying the relationship between pseudo-collarability and Z-compactifiability, two main extensions on completable manifolds. I will construct counterexamples to the statement that Z-compactifiability implies pseudo-collarability. The constructions are based on knot theory and 4D topology. If time permits, I’ll show the reverse statement holds for manifolds of dimension at least six, i.e., pseudo-collarability implies Z-compactifiability.
-
-   </details>
+ </details>
 </p> 
  
-<p><b>李友林(上海交通大学)</b>
+<p><b>李友林(上海交通大学)：On contact solid tori in contact 3-manifolds</b>
  <details>
 <summary>摘要：</summary>
-TBD
+Contact solid tori in contact 3-manifolds are closely related to Legendrian knots and Legendrian cable knots. In this talk, I will present several recent results concerning contact solid tori in contact 3-manifolds. This is joint work in progress with John Etnyre and Bulent Tosun.
+  <br>
+  预备报告题目：Convex surfaces in contact 3-manifolds  <br>
+  预备报告摘要：Convex surface theory is an essential tool in studying contact 3-manifolds. In this talk, I will briefly introduce the convex surface theory and demonstrate how it is used to study tight contact structures.
 </details>
 </p> 
  
