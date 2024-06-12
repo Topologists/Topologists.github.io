@@ -16,7 +16,7 @@ layout: page
 <details>
 <summary><b>何东泰(同济大学)
 </b></summary>
-摘要：TBD
+摘要：待定
 </details>
 </p> 
 
@@ -55,7 +55,7 @@ layout: page
 <p>
  <details>
 <summary><b>覃帆(北京师范大学)</b></summary>
-摘要：TBD
+摘要：待定
 </details>
 </p> 
 
