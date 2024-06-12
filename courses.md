@@ -6,34 +6,35 @@ layout: page
 
 
 
-<p><b>李琼玲（南开大学）：Higgs bundles and minimal surfaces in non-compact symmetric spaces</b>
+<p>
 <details>
-<summary>课程摘要：</summary>
-待定
+<summary><b>李琼玲（南开大学）：Higgs bundles and minimal surfaces in non-compact symmetric spaces</b></summary>
+课程摘要：待定
 </details>
 </p> 
 
-<p><b>田垠（北京师范大学）：Topological quantum field theory and Khovanov homology</b><br>
+<p>
   <details>
-<summary>课程摘要：</summary>
-Lecture 1. Jones and quantum group<br>
+<summary><b>田垠（北京师范大学）：Topological quantum field theory and Khovanov homology</b></summary>
+课程摘要：<br>
+    Lecture 1. Jones and quantum group<br>
    Lecture 2. Topological quantum field theory and Khovanov homology (Kh)<br>
    Lecture 3. Categorified quantum group<br>
    Lecture 4. Application of Kh, symplectic Kh.
 </details>
 </p> 
 
-<p><b>吴惟为（浙江大学）：The symplectomorphism group</b><br>
+<p><br>
 <details>
-<summary>课程摘要：</summary>
-待定
+<summary><b>吴惟为（浙江大学）：The symplectomorphism group</b></summary>
+课程摘要：待定
 </details>
 </p>
 
-<p><b>杨文元（北京国际数学研究中心）：Groups acting on hyperbolic spaces</b>
+<p>
 <details>
-<summary>课程摘要：</summary>
-通过双曲空间上等距群作用来研究离散群的几何和代数性质是几何群论中一个重要研究方向。本课程将首先介绍Gromov双曲空间的基本概念和理论，然后研究这类空间上的几何作用即双曲群，以及几何有限作用即相对双曲群这两大类负曲率群。这两类群的代表例子分别是负截面曲率的闭黎曼流形和体积有限黎曼流形的基本群。最后，我们将介绍更广的一类双曲空间上群作用称为无柱双曲群，这类群研究的驱动例子是曲面映射类群和自由群的外自同构群。熟悉经典2维和3维双曲几何将会对本课程内容理解更有助益。<br>
+<summary><b>杨文元（北京国际数学研究中心）：Groups acting on hyperbolic spaces</b></summary>
+课程摘要：通过双曲空间上等距群作用来研究离散群的几何和代数性质是几何群论中一个重要研究方向。本课程将首先介绍Gromov双曲空间的基本概念和理论，然后研究这类空间上的几何作用即双曲群，以及几何有限作用即相对双曲群这两大类负曲率群。这两类群的代表例子分别是负截面曲率的闭黎曼流形和体积有限黎曼流形的基本群。最后，我们将介绍更广的一类双曲空间上群作用称为无柱双曲群，这类群研究的驱动例子是曲面映射类群和自由群的外自同构群。熟悉经典2维和3维双曲几何将会对本课程内容理解更有助益。<br>
 第一次课：Gromov双曲空间基本理论<br>
 第二次课：Milnor-Svarc引理和双曲群<br>
 第三次课：相对双曲群及例子<br>
@@ -41,10 +42,10 @@ Lecture 1. Jones and quantum group<br>
 </details>
 </p> 
 
-<p><b>周正一（中科院数学所）：Intersection theory of punctured holomorphic curves and planar open books</b>
+<p>
 <details>
-<summary>课程摘要：</summary>
-Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
+<summary><b>周正一（中科院数学所）：Intersection theory of punctured holomorphic curves and planar open books</b></summary>
+课程摘要：Using Wendl's theorem on planar open book as an example, we will introduce Siefring’s intersection theory for punctured holomorphic curves.
 <br>
   Lecture 1: Open books, symplectic Lefschetz fibrations, Wendl’s theorem on planar open books and its applications in symplectic fillings.
 <br>
