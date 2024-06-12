@@ -4,9 +4,14 @@ permalink: "/talks/"
 layout: page
 ---
 
-
-<p><b>程哲驰（武汉大学）</b>
+<p><b>程哲驰（武汉大学）：A Symplectic Approach of Khovanov Homology
+</b>
+<details>
+<summary>课程摘要：</summary>
+There are many different approaches of Khovanov homology. As for this talk, we will mainly be interested in a version from symplectic geometry, called symplectic Khovanov homology.  It is conjecturally isomorphic to Khovanov homology. In 2020, Abouzaid and Smith proved this conjecture over characteristic-zero fields, while the more general cases remain open. In this talk, we start with comparing the gradings on symplectic Khovanov homology and Khovanov homology, and then discuss some recent progress on the conjecture.
+</details>
 </p> 
+
 
 <p><b>何东泰(同济大学)</b>
 </p> 
