@@ -36,6 +36,10 @@ Z2 harmonic spinors and forms extend the concept of quadratic differentials on R
 </p> 
  
 <p><b>李友林(上海交通大学)</b>
+ <details>
+<summary>摘要：</summary>
+TBD
+</details>
 </p> 
  
 <p><b>潘宇(天津大学)：Legendrian knots and exact Lagrangian fillings</b>
@@ -45,6 +49,10 @@ Z2 harmonic spinors and forms extend the concept of quadratic differentials on R
 </p> 
 
 <p><b>覃帆(北京师范大学)</b>
+ <details>
+<summary>摘要：</summary>
+TBD
+</details>
 </p> 
 
 <p><b>杨璟玲(厦门大学)：KNOT CONCORDANCE, SLICE GENUS AND HEEGAARD FLOER HOMOLOGY </b>
@@ -55,4 +63,8 @@ Z2 harmonic spinors and forms extend the concept of quadratic differentials on R
 </p> 
 
 <p><b>张俊(中国科学技术大学)</b>
+ <details>
+<summary>摘要：</summary>
+TBD
+</details>
 </p> 
