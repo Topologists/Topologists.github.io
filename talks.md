@@ -22,7 +22,7 @@ layout: page
 
 <p>
  <details>
-<summary><b>何思奇(中科院)：Z2 harmonic 1-forms: connections in topology and geometry</b></summary>
+<summary><b>何思奇(中科院数学所)：Z2 harmonic 1-forms: connections in topology and geometry</b></summary>
 摘要：Z2 harmonic spinors and forms extend the concept of quadratic differentials on Riemann surfaces to higher dimensions, creating significant links with gauge theory, low-dimensional topology, and calibrated geometry. According to Taubes, Z2 harmonic 1-forms serve as essential boundaries in various gauge theory equations, particularly in the context of flat SL(2,C) connections. In the first session, we will provide an overview of this field, highlighting contributions from Takahashi, Parker, Walpuski, Doan, Donaldson, Haydys, Mazzeo, Chen, and others. The second session will address a challenge question posed by Taubes-Wu concerning the existence and rigidity of the tangent cone model for Z2 harmonic 1-forms. We will discuss the application of finite group representation theory to this problem.
 </details>
 </p> 
