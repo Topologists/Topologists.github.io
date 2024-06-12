@@ -6,7 +6,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月1日星期一</b></summary>
+<summary><b>7月1日，星期一</b></summary>
 8:30-9:30： 报到
   <br>
 9:40-10:40：田垠，Topological quantum field theory and Khovanov homology （第一节）
@@ -23,7 +23,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月2日星期二</b></summary>
+<summary><b>7月2日，星期二</b></summary>
 8:30-9:30：周正一，Intersection theory of punctured holomorphic curves and planar open books （第二节）
   <br>
 9:40-10:40：周正一，Intersection theory of punctured holomorphic curves and planar open books （第三节）
@@ -40,7 +40,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月3日星期三</b></summary>
+<summary><b>7月3日，星期三</b></summary>
 8:30-9:30：李琼玲，Higgs bundles and minimal surfaces in non-compact symmetric spaces （第四节）
   <br>
 9:40-10:40：周正一，Intersection theory of punctured holomorphic curves and planar open books （第四节）
@@ -57,7 +57,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月4日星期四</b></summary>
+<summary><b>7月4日，星期四</b></summary>
 8:30-9:30： 田垠，Topological quantum field theory and Khovanov homology （第三节）
   <br>
 9:40-10:40：田垠，Topological quantum field theory and Khovanov homology （第四节）
@@ -75,7 +75,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月5日星期五</b></summary>
+<summary><b>7月5日，星期五</b></summary>
 8:30-9:30： 杨文元，Groups acting on hyperbolic spaces（第三节）
   <br>
 9：40-10:40：杨文元，Groups acting on hyperbolic spaces（第四节）
@@ -92,16 +92,16 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月6日星期六</b></summary>
+<summary><b>7月6日，星期六</b></summary>
 8:30-9:30： 吴惟为，The symplectomorphism group（习题课）
   <br>
-休息日，更多活动待定
+休息日，活动待定
 </details>
 </p> 
 
 <p>
 <details>
-<summary><b>7月7日星期日</b></summary>
+<summary><b>7月7日，星期日</b></summary>
 9:00-9:50： 覃帆，Visualizing cluster algebras through topological models（预备报告）
   <br>
 10:00-10:50：覃帆，Bracelets are theta functions for surface cluster algebras（研究报告）
@@ -118,7 +118,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月8日星期一</b></summary>
+<summary><b>7月8日，星期一</b></summary>
 9:00-9:50：何思奇（预备报告）
   <br>
 10:00-10:50：何思奇，Z2 harmonic 1-forms: connections in topology and geometry（研究报告）
@@ -135,7 +135,7 @@ layout: page
 
 <p>
 <details>
-<summary><b>7月8日星期一</b></summary>
+<summary><b>7月9日，星期二</b></summary>
 9:00-9:50：杨璟玲（预备报告）
   <br>
 10:00-10:50：杨璟玲，Knot concordance, slice genus and Heegaard Floer homology（研究报告）
