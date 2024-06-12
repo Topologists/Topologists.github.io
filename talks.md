@@ -54,8 +54,11 @@ layout: page
 
 <p>
  <details>
-<summary><b>覃帆(北京师范大学)</b></summary>
-摘要：待定
+<summary><b>覃帆(北京师范大学)：Bracelets are theta functions for surface cluster algebras</b></summary>
+摘要：The skein algebra of a marked surface admits the basis of bracelet elements constructed by Fock-Goncharov and Musiker-Schiffler-Williams. As a cluster algebra, it also admits the theta basis from the cluster scattering diagram by Gross-Hacking-Keel-Kontsevich. In a joint work with Travis Mandel, we show that the two bases coincide except for the once-punctured torus. Long-standing conjectures on strong positivity and atomicity follow as corollaries.<br>
+ 预备报告题目：Visualizing cluster algebras through topological models<br>
+ 预备报告摘要：Cluster algebras are algebras with a rich combinatorial structure. They are ubiquitous in mathematics. In this talk, we will illustrate these algebras and associated higher structures using topological models on surfaces.
+  
 </details>
 </p> 
 
