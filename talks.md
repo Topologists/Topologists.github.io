@@ -56,8 +56,8 @@ TBD
 </p> 
 
 <p><b>杨璟玲(厦门大学)：KNOT CONCORDANCE, SLICE GENUS AND HEEGAARD FLOER HOMOLOGY </b>
+  <details>
  <summary>摘要：</summary>
- <details>
  In this talk, we will discuss the 4-dimensional properties of knots, knot concordance and knot slice genus, which play central roles in low-dimensional topology. Heegaard Floer ho- mology has proved to be an effective tool in studying low-dimensional topology, particularly in advancing the understanding of knot concordance. We will begin with an expository introduction to some elementary notions, followed by a review of results in knot concordance stemming from Heegaard Floer theory. We will also discuss our recent progress in this field. This is a joint work with Zhongtao Wu. 
 </details>
 </p> 
