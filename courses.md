@@ -24,7 +24,7 @@ layout: page
 </details>
 </p> 
 
-<p><br>
+<p>
 <details>
 <summary><b>吴惟为（浙江大学）：The symplectomorphism group</b></summary>
 课程摘要：待定
