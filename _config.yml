@@ -17,8 +17,8 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "主页"}
-  - {file: "courses.md", title: "课程"}
-  - {file: "talks.md", title: "报告"}
+  - {file: "courses.md", title: "课程摘要"}
+  - {file: "talks.md", title: "报告摘要"}
   - {file: "calendar.md", title: "日程"}
   - {file: "poster.md", title: "海报"}
 
