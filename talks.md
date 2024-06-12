@@ -39,8 +39,8 @@ Z2 harmonic spinors and forms extend the concept of quadratic differentials on R
 </p> 
  
 <p><b>潘宇(天津大学)：Legendrian knots and exact Lagrangian fillings</b>
-<summary>摘要： Exact Lagrangian surfaces are important objects in the derived Fukaya category. Augmentations are objects of the augmentation category, which is the contact analog of the Fukaya category. In this talk, we discuss various relations between augmentations and exact Lagrangian surfaces. On one hand, we use augmentations to build obstructions for exact Lagrangian cobordisms. On the other hand, we realize augmentations, which is an algebraic object, fully geometrically via exact Lagrangian surfaces.
-</summary>
+   <details>
+<summary>摘要：</summary> Exact Lagrangian surfaces are important objects in the derived Fukaya category. Augmentations are objects of the augmentation category, which is the contact analog of the Fukaya category. In this talk, we discuss various relations between augmentations and exact Lagrangian surfaces. On one hand, we use augmentations to build obstructions for exact Lagrangian cobordisms. On the other hand, we realize augmentations, which is an algebraic object, fully geometrically via exact Lagrangian surfaces.
 </details>
 </p> 
 
@@ -48,8 +48,10 @@ Z2 harmonic spinors and forms extend the concept of quadratic differentials on R
 </p> 
 
 <p><b>杨璟玲(厦门大学)：KNOT CONCORDANCE, SLICE GENUS AND HEEGAARD FLOER HOMOLOGY </b>
- <summary>摘要： In this talk, we will discuss the 4-dimensional properties of knots, knot concordance and knot slice genus, which play central roles in low-dimensional topology. Heegaard Floer ho- mology has proved to be an effective tool in studying low-dimensional topology, particularly in advancing the understanding of knot concordance. We will begin with an expository introduction to some elementary notions, followed by a review of results in knot concordance stemming from Heegaard Floer theory. We will also discuss our recent progress in this field. This is a joint work with Zhongtao Wu. 
-</summary>
+ <summary>摘要：</summary>
+   <details>
+ In this talk, we will discuss the 4-dimensional properties of knots, knot concordance and knot slice genus, which play central roles in low-dimensional topology. Heegaard Floer ho- mology has proved to be an effective tool in studying low-dimensional topology, particularly in advancing the understanding of knot concordance. We will begin with an expository introduction to some elementary notions, followed by a review of results in knot concordance stemming from Heegaard Floer theory. We will also discuss our recent progress in this field. This is a joint work with Zhongtao Wu. 
+</details>
 </p> 
 
 <p><b>张俊(中国科学技术大学)</b>
