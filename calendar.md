@@ -17,7 +17,7 @@ layout: page
   <br>
 15:10-16:10：李琼玲，Higgs bundles and minimal surfaces in non-compact symmetric spaces （第二节）
   <br>
-16:20-17:20：周正一，Intersection theory of punctured holomorphic curves and planar open books （习题课）
+16:20-17:20：杜利特，Intersection theory of punctured holomorphic curves and planar open books （习题课）
 </details>
 </p> 
 
@@ -28,13 +28,13 @@ layout: page
   <br>
 9:40-10:40：周正一，Intersection theory of punctured holomorphic curves and planar open books （第三节）
   <br>
-10:50-11:50：李琼玲，Higgs bundles and minimal surfaces in non-compact symmetric spaces （习题课）
+10:50-11:50：陈家煌，Higgs bundles and minimal surfaces in non-compact symmetric spaces （习题课）
   <br>
 14:00-15:00：李琼玲，Higgs bundles and minimal surfaces in non-compact symmetric spaces （第三节）
   <br>
 15:10-16:10：杨文元，Groups acting on hyperbolic spaces（第一节）
   <br>
-16:20-17:20：田垠，Topological quantum field theory and Khovanov homology （习题课）
+16:20-17:20：雷子逸，Topological quantum field theory and Khovanov homology （习题课）
 </details>
 </p> 
 
@@ -45,13 +45,13 @@ layout: page
   <br>
 9:40-10:40：周正一，Intersection theory of punctured holomorphic curves and planar open books （第四节）
   <br>
-10:50-11:50：周正一，Intersection theory of punctured holomorphic curves and planar open books （习题课）
+10:50-11:50：杜利特，Intersection theory of punctured holomorphic curves and planar open books （习题课）
   <br>
 14:00-15:00：田垠，Topological quantum field theory and Khovanov homology （第二节）
   <br>
 15:10-16:10：吴惟为，The symplectomorphism group （第一节）
   <br>
-16:20-17:20：李琼玲，Higgs bundles and minimal surfaces in non-compact symmetric spaces （习题课）
+16:20-17:20：陈家煌，Higgs bundles and minimal surfaces in non-compact symmetric spaces （习题课）
 </details>
 </p> 
 
@@ -62,13 +62,13 @@ layout: page
   <br>
 9:40-10:40：田垠，Topological quantum field theory and Khovanov homology （第四节）
   <br>
-10:50-11:50：杨文元，Groups acting on hyperbolic spaces（习题课）
+10:50-11:50：杨朝栋，Groups acting on hyperbolic spaces（习题课）
   <br>
 14:00-15:00：杨文元，Groups acting on hyperbolic spaces（第二节）
   <br>
 15:10-16:10：吴惟为， The symplectomorphism group（第二节）
   <br>
-16:20-17:20：吴惟为， The symplectomorphism group（习题课）
+16:20-17:20：丁言峭， The symplectomorphism group（习题课）
 </details>
 </p> 
 
@@ -80,20 +80,20 @@ layout: page
   <br>
 9：40-10:40：杨文元，Groups acting on hyperbolic spaces（第四节）
   <br>
-10:50-11:50：杨文元，Groups acting on hyperbolic spaces（习题课）
+10:50-11:50：杨朝栋，Groups acting on hyperbolic spaces（习题课）
   <br>
 14：00-15:00：吴惟为，The symplectomorphism group（第三节）
   <br>
 15:10-16:10：吴惟为，The symplectomorphism group（第四节）
   <br>
-16:20-17:20：田垠，Topological quantum field theory and Khovanov homology （习题课）
+16:20-17:20：雷子逸，Topological quantum field theory and Khovanov homology （习题课）
 </details>
 </p> 
 
 <p>
 <details>
 <summary><b>7月6日，星期六</b></summary>
-8:30-9:30： 吴惟为，The symplectomorphism group（习题课）
+8:30-9:30： 丁言峭，The symplectomorphism group（习题课）
   <br>
 休息日，活动待定
 </details>
