@@ -14,9 +14,9 @@ layout: page
 
 <p>
 <details>
-<summary><b>何东泰(同济大学)
+<summary><b>何东泰(同济大学)：Heegaard Floer homology and monodromy of open books 
 </b></summary>
-摘要：待定
+摘要：In this talk, we will discuss the relationship between Heegaard Knot) Floer homology, contact structures, and the monodromy of open books. We will begin with an introduction to basic notions in contact topology, open book decomposition, with an emphasis on their relationship with Heegaard Floer homology. We will also discuss recent progress in this field, as well as application to knot concordance.
 </details>
 </p> 
 
