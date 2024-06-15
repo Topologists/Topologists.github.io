@@ -12,7 +12,12 @@ layout: page
 <br>
   助教：陈家煌</b>
 </summary>
-课程摘要：待定
+课程摘要：The non-Abelian Hodge correspondence relates polystable Higgs bundles over a Riemann surface with reductive representations from the surface group. The correspondence is through looking for harmonic metrics on Higgs bundles, making it harmonic bundle. Conformal harmonic bundles over a Riemann surface X correspond to equivariant minimal branched immersion from the universal cover of X to the symmetric space associated to GL(n,C). In this minicourse, we will explain the non-Abelian Hodge correspondence, and focus on studies related to equivariant minimal surfaces in non-compact symmetric spaces.
+<br>
+Part I: An introduction to the non-Abelian Hodge correspondence<br>
+Part III: Various examples of minimal surfaces in non-compact symmetric space<br>
+Part III: Anosov representations and Labourie's conjecture<br>
+Part IV: Morse index and total curvature of minimal surfaces.
 </details>
 </p> 
 
