@@ -36,11 +36,15 @@ Part IV: Morse index and total curvature of minimal surfaces.
 
 <p>
 <details>
-<summary><b>吴惟为（浙江大学）：The symplectomorphism group
+<summary><b>吴惟为（浙江大学）：The symplectomorphism groups of 4-manifolds
 <br>
   助教：丁言峭</b>
 </summary>
-课程摘要：待定
+课程摘要：<br>
+1. The symplectomorphism group of S^2 x S^2<br>
+2. Towards rational surfaces: ball-packings and symplectic genus<br>
+3. Ball-swappings and uniqueness of Lagrangian spheres<br>
+4. Kronheimer-McDuff's trick, the deformation of symplectomorphism groups
 </details>
 </p>
 
