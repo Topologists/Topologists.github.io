@@ -38,7 +38,7 @@ Part IV: Morse index and total curvature of minimal surfaces.
 <details>
 <summary><b>吴惟为（浙江大学）：The symplectomorphism groups of 4-manifolds
 <br>
-  助教：丁言峭</b>
+  助教：丁岩峭</b>
 </summary>
 课程摘要：<br>
 1. The symplectomorphism group of S^2 x S^2<br>
