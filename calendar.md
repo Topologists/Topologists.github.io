@@ -68,7 +68,7 @@ layout: page
   <br>
 15:10-16:10：吴惟为， The symplectomorphism group（第二节）
   <br>
-16:20-17:20：丁言峭， The symplectomorphism group（习题课）
+16:20-17:20：丁岩峭， The symplectomorphism group（习题课）
 </details>
 </p> 
 
@@ -93,7 +93,7 @@ layout: page
 <p>
 <details>
 <summary><b>7月6日，星期六</b></summary>
-8:30-9:30： 丁言峭，The symplectomorphism group（习题课）
+8:30-9:30： 丁岩峭，The symplectomorphism group（习题课）
   <br>
 休息日，活动待定
 </details>
@@ -104,15 +104,15 @@ layout: page
 <summary><b>7月7日，星期日</b></summary>
 9:00-9:50： 覃帆，Visualizing cluster algebras through topological models（预备报告）
   <br>
-10:00-10:50：覃帆，Bracelets are theta functions for surface cluster algebras（研究报告）
+10:00-10:50：覃帆，Bracelets are theta functions for surface cluster algebras（正式报告）
   <br>
 11:00-11:50：潘宇（预备报告）
   <br>
-14:00-14:50：潘宇，Legendrian knots and exact Lagrangian fillings（研究报告）
+14:00-14:50：潘宇，Legendrian knots and exact Lagrangian fillings（正式报告）
   <br>
 15:00-15:50：谷世杰（预备报告）
   <br>
-16:00-16:50：谷世杰，Compactifications of manifolds（研究报告）
+16:00-16:50：谷世杰，Compactifications of manifolds（正式报告）
 </details>
 </p> 
 
@@ -121,15 +121,15 @@ layout: page
 <summary><b>7月8日，星期一</b></summary>
 9:00-9:50：何思奇（预备报告）
   <br>
-10:00-10:50：何思奇，Z2 harmonic 1-forms: connections in topology and geometry（研究报告）
+10:00-10:50：何思奇，Z2 harmonic 1-forms: connections in topology and geometry（正式报告）
   <br>
 11:00-11:50：何东泰（预备报告）
   <br>
-14:00-14:50：何东泰（研究报告）
+14:00-14:50：何东泰（正式报告）
   <br>
 15:00-15:50：李友林，Convex surfaces in contact 3-manifolds（预备报告）
   <br>
-16:00-16:50：李友林， On contact solid tori in contact 3-manifolds（研究报告）
+16:00-16:50：李友林， On contact solid tori in contact 3-manifolds（正式报告）
 </details>
 </p> 
 
@@ -138,12 +138,12 @@ layout: page
 <summary><b>7月9日，星期二</b></summary>
 9:00-9:50：杨璟玲（预备报告）
   <br>
-10:00-10:50：杨璟玲，Knot concordance, slice genus and Heegaard Floer homology（研究报告）
+10:00-10:50：杨璟玲，Knot concordance, slice genus and Heegaard Floer homology（正式报告）
   <br>
-11:00-11:50：程哲驰，A Symplectic Approach of Khovanov Homology（研究报告）
+11:00-11:50：程哲驰，A Symplectic Approach of Khovanov Homology（正式报告）
   <br>
 14:00-14:50：张俊（预备报告）
   <br>
-15:00-15:50：张俊，Givental’s non-linear Maslov index via Floer cones（研究报告）
+15:00-15:50：张俊，Givental’s non-linear Maslov index via Floer cones（正式报告）
 </details>
 </p> 
