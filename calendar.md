@@ -4,6 +4,10 @@ permalink: "/calendar/"
 layout: page
 ---
 
+<h1>教室地址</h1>
+<p>北京市海淀区双清综合楼五楼C548（教室在清华大学校园外的东侧）
+</p>
+
 <p>
 <details>
 <summary><b>7月1日，星期一</b></summary>
