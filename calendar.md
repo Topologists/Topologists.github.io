@@ -4,7 +4,8 @@ permalink: "/calendar/"
 layout: page
 ---
 
-<h1>教室地址</h1>
+
+
 <p>北京市海淀区双清综合楼五楼C548<br>
 （教室在清华大学校园外的东侧，大楼入口在双清园食堂的马路正对面。）
 </p>
@@ -152,3 +153,4 @@ layout: page
 15:00-15:50：张俊，Givental’s non-linear Maslov index via Floer cones（正式报告）
 </details>
 </p> 
+
