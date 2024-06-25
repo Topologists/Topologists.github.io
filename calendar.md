@@ -138,15 +138,17 @@ layout: page
 <p>
 <details>
 <summary><b>7月9日，星期二</b></summary>
-9:00-9:50：杨璟玲（预备报告）
+9:00-9:50：张俊（预备报告）
   <br>
-10:00-10:50：杨璟玲，Knot concordance, slice genus and Heegaard Floer homology（正式报告）
+10:00-10:50：张俊，Givental’s non-linear Maslov index via Floer cones（正式报告）
   <br>
-11:00-11:50：程哲驰，A Symplectic Approach of Khovanov Homology（正式报告）
+11:00-11:50：杨璟玲（预备报告）
   <br>
-14:00-14:50：张俊（预备报告）
+14:00-14:50：杨璟玲，Knot concordance, slice genus and Heegaard Floer homology（正式报告）
   <br>
-15:00-15:50：张俊，Givental’s non-linear Maslov index via Floer cones（正式报告）
+15:00-15:50：程哲驰（预备报告）
+  <br>
+16:00-16:50：程哲驰，A Symplectic Approach of Khovanov Homology（正式报告）
 </details>
 </p> 
 
