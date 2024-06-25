@@ -127,7 +127,7 @@ layout: page
   <br>
 11:00-11:50：何东泰（预备报告）
   <br>
-14:00-14:50：何东泰（正式报告）
+14:00-14:50：何东泰：Heegaard Floer homology and monodromy of open books（正式报告）
   <br>
 15:00-15:50：李友林，Convex surfaces in contact 3-manifolds（预备报告）
   <br>
@@ -138,7 +138,7 @@ layout: page
 <p>
 <details>
 <summary><b>7月9日，星期二</b></summary>
-9:00-9:50：张俊（预备报告）
+9:00-9:50：张俊：Contact geometry and its associated dynamics（预备报告）
   <br>
 10:00-10:50：张俊，Givental’s non-linear Maslov index via Floer cones（正式报告）
   <br>
