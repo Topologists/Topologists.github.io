@@ -1,5 +1,5 @@
 ---
-title: "学术报告（7月6-9日）"
+title: "专题报告（7月6-9日）"
 permalink: "/talks/"
 layout: page
 ---
