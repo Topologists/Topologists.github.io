@@ -123,7 +123,7 @@ layout: page
 <summary><b>7月8日，星期一</b></summary>
 9:00-9:50：何思奇（预备报告）
   <br>
-10:00-10:50：何思奇，Z2 harmonic 1-forms: connections in topology and geometry（正式报告）
+10:00-10:50：陈家煌，Z2 harmonic 1-forms: connections in topology and geometry（正式报告）
   <br>
 11:00-11:50：何东泰（预备报告）
   <br>
