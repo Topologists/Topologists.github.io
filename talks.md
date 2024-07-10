@@ -113,7 +113,7 @@ the past forty years, much less seems to be known about Dehn surgery on links. T
 expository talk will review recent results of Gompf-Scharlemann-Thompson and
 Meier-Zupan on n-component links in S^3 with a Dehn surgery realizing #n(S^1×S^2)
 and its relation to the Smooth 4-Dimensional Poincare conjecture and the Generalized
-Property R conjecture
+Property R conjecture.
 </details>
 </p> 
 
@@ -141,7 +141,7 @@ the choice of G so that we get a well-defined invariant of G, called Alexander
 polynomial. By using this new invariant, we give a necessary condition for spatial
 graphs being planar graphs and give an intrinsic invariant of graphs. Also, we
 briefly introduce our recent proof on the trapezoidal conjecture for planar graphs
-and relate it to the trapezoidal conjecture for 
+and relate it to the trapezoidal conjecture for alternating knots.
 </details>
 </p> 
 
