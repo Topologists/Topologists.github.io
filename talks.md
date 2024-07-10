@@ -86,7 +86,7 @@ layout: page
 <p>
 <details>
 <summary><b>代丕孟：
-</b>Simplicial complex with extremal total betti number
+Simplicial complex with extremal total betti number</b>
 </summary>
 摘要：We determine which simplicial complexes have the maximum or minimum sum of
 Betti numbers and bigraded Betti numbers with a given number of vertices in each
@@ -97,7 +97,7 @@ dimension.
 <p>
 <details>
 <summary><b>尚鉴桥：
-</b>一个 Morse 同调的引理</summary>
+一个 Morse 同调的引理</b></summary>
 摘要：（引理）考虑流形 M 与子流形 N，以及 M 上的 Morse 函数 f。如果 f 在 M 和 N 上拥有
 相同的奇异点与指标，那么 M 与 N 的 Morse 同调相同。
 我们将证明该引理，用其解释 Lagrange 乘子法的 Morse 理论, Viterbo 同构等定理为何正确。之后我会从其出发，解释进一步对辛同调能猜想什么。
@@ -106,7 +106,7 @@ dimension.
 
 <p>
 <details>
-<summary><b>刁文杰：</b>Square knots, surgery on links and homotopy 4-spheres
+<summary><b>刁文杰：Square knots, surgery on links and homotopy 4-spheres</b>
 </summary>
 摘要：While the theory of Dehn surgery on knots has been thoroughly developed over
 the past forty years, much less seems to be known about Dehn surgery on links. This
