@@ -101,17 +101,24 @@ layout: page
 9:45-10:00： 刁文杰，Square knots, surgery on links and homotopy 4-spheres（学生报告）
   <br>
 10:00-10:15： 安妮，Stability of colored Jones polynomial and a related problem（学生报告）
+  <br>
 
 10:15-10:30： 廖文博，An Alexander Polynomial for Spatial Graphs and the trapezoidal
 conjecture（学生报告）
+  <br>
 
 10:30-10:45： 张昊航，Rigidity of the grid graph（学生报告）
+  <br>
 
 10:45-11:00 中场休息
+  <br>
 
-11:00-11:15： 王云杰，Short closed geodesics with self-intersections on hyperbolic surfaces（学生报告）
-11:15-11:30： 尚鉴桥，一个 Morse 同调的引理（学生报告）
-11:30-11:45： 代丕孟，Simplicial complex with extremal total betti number（学生报告）
+11:00-11:15： 王云杰，Short closed geodesics with self-intersections on hyperbolic surfaces（学生报告）  <br>
+
+11:15-11:30： 尚鉴桥，一个 Morse 同调的引理（学生报告）  <br>
+
+11:30-11:45： 代丕孟，Simplicial complex with extremal total betti number（学生报告）  
+
   <br>
 </details>
 </p> 
