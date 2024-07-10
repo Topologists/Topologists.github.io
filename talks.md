@@ -76,6 +76,105 @@ layout: page
 预备报告题目：Contact geometry and its associated dynamics. <br>
 预备报告摘要：In this preliminary talk, we will recall some general background on contact geometry, mainly focusing on the Hamiltonian dynamics on a contact manifold. In particular, Reeb dynamics and various studies on closed Reeb orbits will be elaborated; orderability from Eliashberg-Polterovich, together with its most updated progress in terms of the metric geometry, will also be covered. If time permits, we will outline how the Hamiltonian dynamics behave in the relative situation, that is, on Legendrian submanifolds or more generally on contact coisotropic submanifolds. 
  
- 
 </details>
 </p> 
+
+
+<h1>学生报告</h1>
+
+
+<p>
+<details>
+<summary><b>代丕孟：
+</b>Simplicial complex with extremal total betti number
+</summary>
+摘要：We determine which simplicial complexes have the maximum or minimum sum of
+Betti numbers and bigraded Betti numbers with a given number of vertices in each
+dimension.
+</details>
+</p> 
+
+<p>
+<details>
+<summary><b>尚鉴桥：
+</b>一个 Morse 同调的引理</summary>
+摘要：（引理）考虑流形 M 与子流形 N，以及 M 上的 Morse 函数 f。如果 f 在 M 和 N 上拥有
+相同的奇异点与指标，那么 M 与 N 的 Morse 同调相同。
+我们将证明该引理，用其解释 Lagrange 乘子法的 Morse 理论, Viterbo 同构等定理为何正确。之后我会从其出发，解释进一步对辛同调能猜想什么。
+</details>
+</p> 
+
+<p>
+<details>
+<summary><b>刁文杰：</b>Square knots, surgery on links and homotopy 4-spheres
+</summary>
+摘要：While the theory of Dehn surgery on knots has been thoroughly developed over
+the past forty years, much less seems to be known about Dehn surgery on links. This
+expository talk will review recent results of Gompf-Scharlemann-Thompson and
+Meier-Zupan on n-component links in S^3 with a Dehn surgery realizing #n(S^1×S^2)
+and its relation to the Smooth 4-Dimensional Poincare conjecture and the Generalized
+Property R conjecture
+</details>
+</p> 
+
+<p>
+   <details>
+<summary><b>王云
+杰：Short closed geodesics with self-intersections on hyperbolic surfaces</b></summary> 
+    摘要：In this talk，I will briefly introduce the counting number problem
+on hyperbolic surfaces. We will describes the exact asymptotic behavior of
+the minimal ratio between length and rooting of self-intersection number
+geodesics on compact hyperbolic surfaces, as a function on the moduli
+space in terms of their systole length.
+This is a joint work with Lizhi Chen.
+</details>
+</p> 
+
+<p>
+   <details>
+<summary><b>Wenbo
+Liao：An Alexander Polynomial for Spatial Graphs and the trapezoidal conjecture</b></summary> 
+    摘要：We introduce an Alexander polynomial for spatial graphs by generalizing
+Kaufmann states sum. Let G ⊂S^3 be a spatial graph and G be any planar projection
+of G. We define the Kaufmann states of G and show the state sum is independent of
+the choice of G so that we get a well-defined invariant of G, called Alexander
+polynomial. By using this new invariant, we give a necessary condition for spatial
+graphs being planar graphs and give an intrinsic invariant of graphs. Also, we
+briefly introduce our recent proof on the trapezoidal conjecture for planar graphs
+and relate it to the trapezoidal conjecture for 
+</details>
+</p> 
+
+<p>
+   <details>
+<summary><b>张昊航：Rigidity of the grid graph</b></summary> 
+    摘要：Inspired by asymptotically flat manifolds, we introduce the concept of
+asymptotically flat graphs. We formulate the discrete positive mass conjecture based
+on the scalar curvature in the sense of Ollivier curvature, and prove the positive
+mass theorem for asymptotically flat graphs that are combinatorially isomorphic to
+grid graphs. We prove a weaker version of the positive mass conjecture: an
+asymptotically flat graph with non-negative Ricci curvature is isomorphic to the
+standard grid graph. Hence the topology structure of an asymptotically flat graph
+is determined by the curvature condition, which is a discrete analog of the rigidity
+part for the positive mass theorem. The key tool for the proof is the discrete
+harmonic function of linear growth associated with the salami structure.链接:
+https://arxiv.org/abs/2307.08334
+</details>
+</p> 
+
+
+
+<p>
+   <details>
+<summary><b>安妮：Stability of colored Jones polynomial and a related problem</b></summary> 
+    摘要：Colored Jones polynomial can by defined through the representation of braid
+group by using enhanced Yang-Baxter operator. Form Ribbon hopf algebra, we can get
+a state sum formula for colored Jones polynomial. Then 10 years ago, Stavros and
+Thang proved the stability of colored Jones polynomial and give an explicit
+formula of the limit of colored Jones polynomial for alternating knots, which is
+in from of Nahm sum and can be determined by the Tait graph of an alternating knot.
+Next we want to construct some new invariants from this limit formula and I will
+share what we next want to do.
+</details>
+</p> 
+
